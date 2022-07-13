@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6262350901342177744
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6262350901342177746}
+  - component: {fileID: 6262350901342177747}
+  - component: {fileID: 8571601}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6262350901342177746
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6262350901342177744}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 20.446066, y: 125.97355, z: 192.23177}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6262350901342177747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6262350901342177744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5ab6fc9ee9251e4193e9f033d7a3de9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audios:
+  - name: MainMenu
+    clip: {fileID: 8300000, guid: 87e2959ebf0e65e42886a78a6c7d3116, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    mute: 0
+    source: {fileID: 0}
+  - name: StoryBoard
+    clip: {fileID: 8300000, guid: 92522eb95c0bbb6488b95b8e300473a6, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    mute: 0
+    source: {fileID: 0}
+  - name: NoahRoom
+    clip: {fileID: 8300000, guid: 7f97ad1dad1c3bc41aa8b1225fa6e254, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    mute: 0
+    source: {fileID: 0}
+  - name: Pueblo
+    clip: {fileID: 8300000, guid: 3aafda9d870f3604a9c49fc692fa33c0, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    mute: 0
+    source: {fileID: 0}
+  - name: salto1
+    clip: {fileID: 8300000, guid: 0842ca7c00e05464d8af999e647f6bb9, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: salto2
+    clip: {fileID: 8300000, guid: dc12662380610f54fac6862a1a1b319d, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: Door
+    clip: {fileID: 8300000, guid: 7d9950b25de7cdc4487fd205262ce5e3, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: SelectGame
+    clip: {fileID: 8300000, guid: 4720642b0c2595541b6813b4bd8c7010, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: NewGame
+    clip: {fileID: 8300000, guid: cd15116388834c4488380c640fd1ad43, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: ClickAceptar
+    clip: {fileID: 8300000, guid: 77bcc8fae75b8994b8b593909278ed5a, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: ClickCancelar
+    clip: {fileID: 8300000, guid: 792e6c9df78d5a84882a26886d5850f3, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: ButtonPress
+    clip: {fileID: 8300000, guid: 263311d3fc8b5b6478b6492505714e33, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: PointerUp
+    clip: {fileID: 8300000, guid: fd700154562e7814f8a2de07ad1413e5, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: CurrencyTake
+    clip: {fileID: 8300000, guid: cb1da8690ca5e0940bfac736502e469e, type: 3}
+    volume: 0.3
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: InvisibleStart
+    clip: {fileID: 8300000, guid: 63bc380db6f88ef4791d253374b5f5f8, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: InvisibleStop
+    clip: {fileID: 8300000, guid: 4ff5b8a362e96bc4397e584758de7ba3, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: Destroy
+    clip: {fileID: 8300000, guid: cd5d64df15799984787738563fba505c, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+  - name: Tp
+    clip: {fileID: 8300000, guid: e33a15443095c6343aa358219df56e62, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    mute: 0
+    source: {fileID: 0}
+--- !u!114 &8571601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6262350901342177744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e24d44bc6d16a94da505f27ddc148c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainMenuSceneName: MainMenu
+  storyBoardScene: StoryBoard
+  noahRoomScene: Casa_Protagonista
+  puebloScene: New_pueblo

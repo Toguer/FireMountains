@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab20e9fb0309dbf4ca54bc42f2f56147, type: 3}
+  m_Name: MineralInt
+  m_EditorClassIdentifier: 
+  _name: Mineral
+  id: 0
+  dropItem: {fileID: 1356439598139180931, guid: f6eb7ab3d8c28b74288275481d015609, type: 3}

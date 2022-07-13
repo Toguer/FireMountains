@@ -1,0 +1,1 @@
+{"_skill1":false,"_skill2":false,"_skill3":false,"tutorial":true,"panadera":false,"_npc1":false,"_npc2":false,"_npc3":false}

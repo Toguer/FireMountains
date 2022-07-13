@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eccd584bf66e4dd418af065dff771c41, type: 3}
+  m_Name: Story2Text
+  m_EditorClassIdentifier: 
+  text: "Este es el caso de Noa, quien en su d\xEDa a d\xEDa ve a todo el mundo feliz
+    y ocupado en tareas que les gustan. Sin embargo, despu\xE9s de unos a\xF1os de
+    duro trabajo y de buscar sin cesar su meta en la vida, Noa sigue estancade en
+    un ciclo sin fin que no termina de llenar ese vac\xEDo de su coraz\xF3n. "
+  image: {fileID: 21300000, guid: 348fb2a608c6a8e4782bb2d7ec1e6a70, type: 3}
+  hd: 0

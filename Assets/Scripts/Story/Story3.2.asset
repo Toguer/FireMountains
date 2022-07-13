@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eccd584bf66e4dd418af065dff771c41, type: 3}
+  m_Name: Story3.2
+  m_EditorClassIdentifier: 
+  text: "Al principio, Noa lo tom\xF3 como una mentira sin m\xE1s, pero era tal el
+    vac\xEDo de su coraz\xF3n, que cuando lleg\xF3 la noche, una voz en su cabeza
+    le incitaba a emprender esa aventura que dec\xEDan, cambiar\xEDa su vida. Otra
+    le dec\xEDa que si estaba loque, pues hab\xEDa muchas monta\xF1as y no sabr\xEDa
+    siquiera si exist\xEDa una de fuego.\u201D "
+  image: {fileID: 21300000, guid: a4acaf5fa3caca34399f0ad4df884535, type: 3}
+  hd: 0

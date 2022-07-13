@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DieTag
+  - WinTag
+  - canPass
+  - breakableBlocks
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PlayerFoots
+  - Water
+  - UI
+  - PlayerBody
+  - Map/NormalWalls
+  - Camera
+  - PlayerInvisible
+  - Map/wallsInvisible
+  - Map/cameraIgnore
+  - Npcs
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

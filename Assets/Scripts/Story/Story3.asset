@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eccd584bf66e4dd418af065dff771c41, type: 3}
+  m_Name: Story3
+  m_EditorClassIdentifier: 
+  text: "Un d\xEDa lluvioso, de camino al trabajo, vio un cartel rasgado en la pared
+    sobre alguien que dec\xEDa: pod\xEDa cambiarte la vida con un simple viaje. Un
+    viaje para encontrar tu meta y ser feliz. Tan s\xF3lo deb\xEDas encontrar la
+    monta\xF1a de fuego.  "
+  image: {fileID: 21300000, guid: 5c8a22660b2f8924b9982b90abfa00f2, type: 3}
+  hd: 0
